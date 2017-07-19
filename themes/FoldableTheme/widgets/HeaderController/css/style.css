@@ -1,13 +1,19 @@
 .jimu-widget-header-controller{
   box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.4);
+  border-radius: 2px;
 }
 .jimu-widget-header-controller .header-section{
   height: 100%;
   overflow: hidden;
+  display: none;
 }
 .jimu-widget-header-controller .container-section{
   height: 100%;
   min-width: 80px;
+  width: 100%!important;
+  margin: 0px !important;
+  display: flex;
+  justify-content: space-around;
 }
 .jimu-widget-header-controller .logo{
   cursor: pointer;
@@ -51,6 +57,7 @@
   opacity: 0.6;
   text-align: center;
   border-right: 1px solid #323e4f;
+  border:none;
 }
 .jimu-widget-header-controller .icon-node img{
   height: 24px;
