@@ -60,6 +60,17 @@
         "name": "Search"
       },
       {
+        "uri": "widgets/Hyperlink/Widget",
+        "position": {
+          "left": 355,
+          "top": 5,
+          "relativeTo": "map"
+        },
+        "version": "2.4",
+        "id": "widgets_Search_Widget_30",
+        "name": "Hyperlink"
+      },
+      {
         "uri": "widgets/Coordinate/Widget",
         "position": {
           "left": 7,

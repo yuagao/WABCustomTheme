@@ -1,0 +1,22 @@
+.jimu-widget-hyperlink{
+	min-height: 32px;
+}
+
+.jimu-widget-hyperlink .link-node{
+	/*width: 200px;*/
+	padding: 0px 10px;
+	line-height: 34px;
+	/*background-color: rgba(72, 85, 102, 0.9);*/
+	background-color: rgba(0,0,0,0.2);
+	/*box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.4);*/
+}
+
+.jimu-widget-hyperlink .link-node a{
+	color: rgba(255,255,255,.8);
+	text-decoration: none;
+	border-radius: 2px;
+}
+
+.jimu-widget-hyperlink .link-node a:hover{
+	text-decoration: underline;
+}
