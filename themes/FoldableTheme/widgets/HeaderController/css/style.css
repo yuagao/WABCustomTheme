@@ -2,6 +2,13 @@
   box-shadow: 0px 1px 8px 0px rgba(0, 0, 0, 0.4);
   border-radius: 2px;
 }
+
+@media (max-width: 1024px){
+  .jimu-widget-header-controller{
+    width:80px!important;
+  }
+}
+
 .jimu-widget-header-controller .header-section{
   height: 100%;
   overflow: hidden;

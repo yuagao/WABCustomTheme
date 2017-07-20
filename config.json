@@ -62,12 +62,12 @@
       {
         "uri": "widgets/Hyperlink/Widget",
         "position": {
-          "left": 355,
+          "left": 340,
           "top": 5,
           "relativeTo": "map"
         },
         "version": "2.4",
-        "id": "widgets_Search_Widget_30",
+        "id": "widgets_Hyperlink_Widget_30",
         "name": "Hyperlink"
       },
       {
@@ -81,6 +81,82 @@
         "id": "widgets_Coordinate_Widget_4",
         "name": "Coordinate"
       },
+
+
+
+      {
+        "position": {
+          "left": 55,
+          "top": 45,
+          "relativeTo": "map"
+        },
+        "placeholderIndex": 1,
+        "id": "Print_1",
+        "name": "Print",
+        "version": "2.4",
+        "closeable": true,
+        "uri": "widgets/Print/Widget",
+        "config": "configs/Print/config_Print.json"
+      },
+      {
+        "position": {
+          "left": 105,
+          "top": 45,
+          "relativeTo": "map"
+        },
+        "placeholderIndex": 1,
+        "id": "Print_2",
+        "name": "Print",
+        "version": "2.4",
+        "closeable": true,
+        "uri": "widgets/Print/Widget",
+        "config": "configs/Print/config_Print.json"
+      },
+      {
+        "position": {
+          "left": 155,
+          "top": 45,
+          "relativeTo": "map"
+        },
+        "placeholderIndex": 1,
+        "id": "Print_3",
+        "name": "Print",
+        "version": "2.4",
+        "closeable": true,
+        "uri": "widgets/Print/Widget",
+        "config": "configs/Print/config_Print.json"
+      },
+      {
+        "position": {
+          "left": 205,
+          "top": 45,
+          "relativeTo": "map"
+        },
+        "placeholderIndex": 1,
+        "id": "Print_4",
+        "name": "Print",
+        "version": "2.4",
+        "closeable": true,
+        "uri": "widgets/Print/Widget",
+        "config": "configs/Print/config_Print.json"
+      },
+      {
+        "position": {
+          "left": 255,
+          "top": 45,
+          "relativeTo": "map"
+        },
+        "placeholderIndex": 1,
+        "id": "Print_5",
+        "name": "Print",
+        "version": "2.4",
+        "closeable": true,
+        "uri": "widgets/Print/Widget",
+        "config": "configs/Print/config_Print.json"
+      },
+
+
+
       {
         "position": {
           "left": 55,
@@ -286,21 +362,21 @@
         "id": "widgets_Stream_Widget_21"
       },
       {
-        "name": "Summary",
+        "name": "Print",
         "version": "2.4",
-        "uri": "widgets/Summary/Widget",
+        "uri": "widgets/Print/Widget",
         "index": 8,
-        "id": "widgets_Summary_Widget_22",
+        "id": "widgets_Print_Widget_22",
         "position": {
           "relativeTo": "map"
         }
       },
       {
-        "name": "Swipe",
+        "name": "Print",
         "version": "2.4",
-        "uri": "widgets/Swipe/Widget",
+        "uri": "widgets/Print/Widget",
         "index": 9,
-        "id": "widgets_Swipe_Widget_23",
+        "id": "widgets_Print_Widget_23",
         "position": {
           "relativeTo": "map"
         }
