@@ -35,7 +35,7 @@ define([
     "dojo/query",
     'jimu/dijit/LoadingIndicator',
     'jimu/FilterManager',
-    './ResourceManager',
+    './_ResourceManager',
     // './_TableFunctionController',
     './utils'
   ],
