@@ -296,19 +296,8 @@
       "right": 0,
       "bottom": 0
     },
-    "itemId": "6e03e8c26aad4b9c92a87c1063ddb0e3",
-    "mapOptions": {
-      "extent": {
-        "type": "extent",
-        "xmin": -17999999.999986686,
-        "ymin": -11999999.999979965,
-        "xmax": 17999999.999986686,
-        "ymax": 15999999.99995831,
-        "spatialReference": {
-          "wkid": 102100
-        }
-      }
-    },
+    "itemId": "57ac874587a14aeca8d88b0160dfbc10",
+    "mapOptions": {},
     "id": "map",
     "portalUrl": "https://techadvisors.maps.arcgis.com/"
   },
