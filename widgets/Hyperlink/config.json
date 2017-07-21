@@ -1,7 +1,4 @@
 {
-  "allPlaceholder": "",
-  "showInfoWindowOnSelect": true,
-  "sources":[],
   "linkText": "Some Really Really Really Long Link Text",
   "linkHref": "http://www.google.com"
 }
